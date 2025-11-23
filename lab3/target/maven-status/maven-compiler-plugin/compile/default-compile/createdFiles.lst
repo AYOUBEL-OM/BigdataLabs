@@ -1,0 +1,4 @@
+edu\supmti\hadoop\lab3\WordCountMapper.class
+edu\supmti\hadoop\mapreduce\Main.class
+edu\supmti\hadoop\lab3\WordCountReducer.class
+edu\supmti\hadoop\lab3\WordCountDriver.class
